@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cernLabs
+- 👋 Hi, I’m Mike!
 - 👀 I’m interested in playing with data
 - 🌱 I’m currently learning Mathematics, Python and R
 - 💞️ I’m looking to collaborate on Geographical Interface Systems
